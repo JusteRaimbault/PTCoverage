@@ -1,0 +1,3 @@
+[submodule "Docs/Papers/PTCoverage-paper"]
+	path = Docs/Papers/PTCoverage-paper
+	url = git@github.com:JusteRaimbault/PTCoverage-paper.git
